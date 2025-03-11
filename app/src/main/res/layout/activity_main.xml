@@ -18,7 +18,7 @@
         android:inputType="textPersonName" />
 
     <TextView
-        android:id="@+id/textHelloMessage"
+        android:id="@+id/tvHelloMessage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
